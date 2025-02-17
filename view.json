@@ -9,16 +9,23 @@
 	"repo" : "https://github.com/sp-fintech/fintech-views-tools-default-home",
 	"dependencies" : 
 	{
-		"core" : [],
-		"apptype" : [],
-		"components" : [],
-		"packages" : [],
-		"middlewares" : [],
+		"core" : 
+		{
+			"name" : "Core",
+			"version" : "0.0.0-rc.8",
+			"repo" : "https://github.com/sp-framework/core"
+		},
+		"apptype" : 
+		{
+			"name" : "Fintech",
+			"version" : "0.3.0",
+			"repo" : "https://github.com/sp-fintech/fintech"
+		},
 		"views" : 
 		[
 			{
 				"name" : "Default",
-				"version" : "0.0.0",
+				"version" : "0.10.0",
 				"repo" : "https://github.com/sp-fintech/fintech-views-tools-default"
 			}
 		]
