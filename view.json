@@ -1,7 +1,7 @@
 {
 	"name" : "Home",
-	"display_name" : "SP Framework Fintech Home View",
-	"description" : "",
+	"display_name" : "Fintech Home View",
+	"description" : "<p>Fintech Home View</p>",
 	"module_type" : "views",
 	"app_type" : "fintech",
 	"category" : "tools",
